@@ -1,5 +1,5 @@
 import bitebox from "../assets/biteBox.jpg";
-import sarabFood from "../assets/sarab.jpg";
+import sarabFood from "../assets/Sarab.jpg";
 import chaloChale from "../assets/jaipur.jpg";
 import shopkart from "../assets/goa.jpg";
 function Projects() {
